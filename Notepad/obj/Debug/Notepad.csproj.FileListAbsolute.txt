@@ -1,0 +1,11 @@
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\ganie\source\repos\yankibtw\Notepad\Notepad\obj\Debug\Notepad.NotepadForm.resources
